@@ -1,3 +1,5 @@
+<img src="logo-ems.png" alt="GoMommy Logo" width="250" height="250">
+
 # GoMommy Event Management System
 
 GoMommy is a comprehensive event management system designed to simplify the planning, organizing, and executing of events. Whether you're organizing a small meetup or a large conference, GoMommy offers a range of features to help you manage every aspect of your event seamlessly.
